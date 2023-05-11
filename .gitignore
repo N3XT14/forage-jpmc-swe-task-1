@@ -1,1 +1,3 @@
 jpmcforage
+__pycache__/
+*.patch
